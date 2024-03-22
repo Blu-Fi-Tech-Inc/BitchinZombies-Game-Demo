@@ -1,0 +1,24 @@
+{
+  "name": "bitchinzombies",
+  "description": "Bitchin' Zombies",
+  "author": "BluFi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "index.html",
+    "server": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/algorithm0r/SuperMarioBros.git"
+  },
+  "homepage": "https://github.com/algorithm0r/SuperMarioBros",
+  "bugs": {
+    "url": "https://github.com/algorithm0r/SuperMarioBros/issues"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "mocha": "^8.2.1"
+  }
+}
